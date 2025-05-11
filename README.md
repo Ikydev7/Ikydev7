@@ -11,17 +11,6 @@
  
 ![Aaaaand many more](res/readme/context.gif)
 
- ## Join my channel for updates and get free cc
-
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    <br>
-  </samp>
-</p>
-
 <p align="center">
   <a href="https://github.com/Rifza123">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifza123&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
@@ -81,6 +70,16 @@
   <a href="https://github.com/Rifza123?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
+ ## Join my channel for updates and get free cc
+
+<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <br>
+  </samp>
+</p>
 <br/>
 <hr/>
 <br/>
