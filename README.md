@@ -52,12 +52,9 @@
 
 <br/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Rifza123&repo=Experimental-Bell&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rifza123/Experimental-Bell)
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Rifza123&repo=XilverMoods-MD&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rifza123/XilverMoods-MD)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Rifza123&repo=XMoods_Yourself-FINAL&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rifza123/XMoods_Yourself-FINAL)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Rifza123&repo=ThunderXM_Multi-Device&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rifza123/ThunderXM_Multi-Device)
-[![Rifza123 Readme](https://github-readme-stats.vercel.app/api/pin/?username=Rifza123&repo=Rifza123&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rifza123/Rifza123)
 
 <p align="left">
   <a href="https://github.com/Rifza123?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
